@@ -30,7 +30,7 @@ export default function useCounter(mode: ECountModes) {
   } = useTranslation();
   const [count, setCount] = useState(initialCount);
   const [words, setWords] = useState<string[]>([]);
-  const [inPause, setInPause] = useState<boolean>([]);
+  const [inPause, setInPause] = useState<boolean>();
   const [currentWordIndex, setCurrentWordIndex] = useState(0);
   const [isRunning, setIsRunning] = useState(false);
   const { response, isLoading, reload, error } = useFetch<string[]>({
