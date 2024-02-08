@@ -1,0 +1,18 @@
+{
+    "VIEWS": {
+        "LANDING": "Principal",
+        "COUNT": "Le Contadeur",
+        "PRODUCTS_DETAIL": "Détails du produit",
+        "USER_CONFIG": "Configuration utilisateur"
+    },
+    "NAVBAR": {
+        "USER_INFO": {
+            "TITLE": "Utilisateur"
+        },
+        "LANGUAGES": {
+            "SPAIN": "Espagnol",
+            "ENGLAND": "Anglais",
+            "FRANCE": "Français"
+        }
+    }
+}

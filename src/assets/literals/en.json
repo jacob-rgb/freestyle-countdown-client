@@ -1,0 +1,18 @@
+{
+    "VIEWS": {
+        "LANDING": "Landing",
+        "COUNT": "Count",
+        "PRODUCTS_DETAIL": "Products detail",
+        "USER_CONFIG": "User config"
+    },
+    "NAVBAR": {
+        "USER_INFO": {
+            "TITLE": "User"
+        },
+        "LANGUAGES": {
+            "SPAIN": "Spanish",
+            "ENGLAND": "English",
+            "FRANCE": "French"
+        }
+    }
+}

@@ -1,0 +1,5 @@
+[
+    { "name_label": "SPAIN", "code": "ES", "flag_code": "es" },
+    { "name_label": "ENGLAND", "code": "EN", "flag_code": "uk" },
+    { "name_label": "FRANCE", "code": "FR", "flag_code": "fr" }
+]

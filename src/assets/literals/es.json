@@ -1,0 +1,18 @@
+{
+    "VIEWS": {
+        "LANDING": "Inicio",
+        "COUNT": "Contador",
+        "PRODUCTS_DETAIL": "Detalles producto",
+        "USER_CONFIG": "Config Usuario"
+    },
+    "NAVBAR": {
+        "USER_INFO": {
+            "TITLE": "Usuario"
+        },
+        "LANGUAGES": {
+            "SPAIN": "Español",
+            "ENGLAND": "Inglés",
+            "FRANCE": "Francés"
+        }
+    }
+}

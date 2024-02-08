@@ -1,0 +1,11 @@
+
+:root {
+    --custom-primary-color: rgb(144, 135, 255);
+    --navbar-height: 55px
+}
+
+@media screen and (max-width: 576px) {
+    :root {
+        /* --primary-color: rgb(238, 46, 255); */
+    }
+}

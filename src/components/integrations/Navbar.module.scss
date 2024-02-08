@@ -1,0 +1,27 @@
+.navbar {
+  height: var(--navbar-height);
+  width: 100%;
+  display: flex;
+  background-color: var(--custom-primary-color);
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 2rem;
+  &__logo {
+    img {
+      width: 150px;
+    }
+  }
+  &__body {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    &__menu {
+      display: flex;
+      align-items: center;
+      gap: 0.7rem;
+      a {
+        color: black;
+      }
+    }
+  }
+}

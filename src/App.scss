@@ -1,0 +1,16 @@
+
+.main-container {
+    width: 100dvw;
+    width: 100svw;
+    height: 100dvh;
+    height: 100svh;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    .content-wrap {
+        display: flex;
+        flex: 1;
+        overflow-x: hidden;
+        overflow-y: auto;
+    }
+}
